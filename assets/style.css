@@ -1,0 +1,32 @@
+body {
+	background: url("images/background-image-for-website.jpg");
+	padding-top: 70px;
+}
+
+.navbar {
+	background: #1D1160;
+}
+
+.navbar-header a {
+	color: white;
+}
+
+.nav li a {
+	color: white;
+}
+
+.carousel {
+	font-size: 16px;
+	line-height: 28px;
+}
+
+footer {
+	background: #1D1160;
+	color: white;
+	height: 100px;
+	font-size: 16px;
+}
+
+footer h5 {
+	line-height: 100px;
+}
