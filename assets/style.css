@@ -7,12 +7,13 @@ body {
 	background: #1D1160;
 }
 
-.navbar-header a {
-	color: white;
+.navbar-default .navbar-brand {
+    color: white;
 }
 
-.nav li a {
-	color: white;
+.navbar-default .navbar-nav>li>a {
+    color: white;
+    font-style: bold;
 }
 
 .carousel {
